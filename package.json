@@ -4,8 +4,8 @@
   "description": "12.x.x SQL",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-    "start": "node sever.js"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
